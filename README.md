@@ -11,6 +11,9 @@ My name is **Ahmed Bargady**, welcome to my github profile and be sure to contac
   - :office: [LinkedIn](https://www.linkedin.com/in/ahmed-bargady/)
   - :speaker: [Twitter](https://twitter.com/AhmedBargady)
 
-[![AhmedCoolProjects's github stats](https://github-readme-stats.vercel.app/api?username=AhmedCoolProjects&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![AhmedCoolProjects's github stats](https://github-readme-stats.vercel.app/api?username=AhmedCoolProjects&count_private=true&show_icons=true&theme=gruvbox&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedCoolProjects)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedCoolProjects&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedCoolProjects&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
