@@ -1,6 +1,5 @@
 ## Hi there! 👋
 
-![image](https://github.com/AhmedCoolProjects/AhmedCoolProjects/assets/72823374/4f432132-1cef-4ab7-823d-4bcd3ac8c50a)
 
 
 Welcome to my github profile! I'm Ahmed BARGADY, a passionate Data Science Engineer and freelancer in Software Development. I love diving into Maths, Data Science, Cloud Computing and Artificial Intelligence.
@@ -17,6 +16,7 @@ Here's what you'll find here:
   - 🔈 [My Email](mailto:ahmed.bargady@outlook.com)
 
 Feel free to explore and connect! Let's innovate and learn together.
+
 
 [![AhmedCoolProjects's github stats](https://github-readme-stats.vercel.app/api?username=AhmedCoolProjects&count_private=true&show_icons=true&theme=gruvbox&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
