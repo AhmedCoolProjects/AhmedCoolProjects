@@ -1,15 +1,19 @@
-### Hi there 👋
+## Hi there! 👋
 
-My name is **Ahmed Bargady**, welcome to my github profile and be sure to contact me for any other information 📫
+Welcome to my GitHub profile! I'm Ahmed Bargady, a passionate Data Science Engineer and freelancer in Software Development. I love diving into Maths, Data Science, Cloud Computing and Artificial Intelligence.
 
-- :zap: I love maths, programming, data science, and AI.
-- 🌱 I’m addicted to learn, create and share with people
-- :earth_africa: I am currently a data science student and a full stack developer as a freelancer.
-- 📫 How to find me: 
-  - :bulb: [My Portfolio](https://ahmedbargady.me)
-  - :pencil2: [My Blogs](https://blog.ahmedbargady.me)
-  - :office: [LinkedIn](https://www.linkedin.com/in/ahmed-bargady/)
-  - :speaker: [Twitter](https://twitter.com/AhmedBargady)
+Here's what you'll find here:
+- ⚡ Public projects that showcase my skills in Software Development and Data Engineering.
+- 🌱 My journey of continuous learning, commiting, sharing and collaborating with the community.
+
+📫 Reach out to me:
+  - 💡 [My Portfolio: ahmed.jina.pro](https://ahmed.jina.pro)
+  - ✏️ [My Blogs on Medium](https://medium.com/@bargadyahmed)
+  - ✏️ [My Blogs on my portfolio](https://ahmed.jina.pro/blog)
+  - 🏢 [My LinkedIn](https://www.linkedin.com/in/ahmed-bargady/)
+  - 🔈 [My Email](mailto:ahmed.bargady@outlook.com)
+
+Feel free to explore and connect! Let's innovate and learn together.
 
 [![AhmedCoolProjects's github stats](https://github-readme-stats.vercel.app/api?username=AhmedCoolProjects&count_private=true&show_icons=true&theme=gruvbox&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
