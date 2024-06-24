@@ -1,6 +1,9 @@
 ## Hi there! 👋
 
-Welcome to my GitHub profile! I'm Ahmed Bargady, a passionate Data Science Engineer and freelancer in Software Development. I love diving into Maths, Data Science, Cloud Computing and Artificial Intelligence.
+![image](https://github.com/AhmedCoolProjects/AhmedCoolProjects/assets/72823374/4f432132-1cef-4ab7-823d-4bcd3ac8c50a)
+
+
+Welcome to my github profile! I'm Ahmed BARGADY, a passionate Data Science Engineer and freelancer in Software Development. I love diving into Maths, Data Science, Cloud Computing and Artificial Intelligence.
 
 Here's what you'll find here:
 - ⚡ Public projects that showcase my skills in Software Development and Data Engineering.
@@ -20,6 +23,4 @@ Feel free to explore and connect! Let's innovate and learn together.
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedCoolProjects&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedCoolProjects&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/AhmedCoolProjects/AhmedCoolProjects/blob/output/github-contribution-grid-snake.svg)
 
