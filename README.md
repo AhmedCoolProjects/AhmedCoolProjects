@@ -4,6 +4,8 @@
 
 Welcome to my github profile! I'm Ahmed BARGADY, a passionate Data Science Engineer and freelancer in Software Development. I love diving into Maths, Data Science, Cloud Computing and Artificial Intelligence.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedCoolProjects&label=Profile%20views&color=0e75b6&style=flat-square" alt="AhmedCoolProjects" /> </p>
+
 Here's what you'll find here:
 - ⚡ Public projects that showcase my skills in Software Development and Data Engineering.
 - 🌱 My journey of continuous learning, commiting, sharing and collaborating with the community.
