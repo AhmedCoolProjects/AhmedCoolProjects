@@ -297,20 +297,6 @@
 
 <br><br>
 
-<details>
-  <summary><strong>💖&nbsp;&nbsp;Support My Work</strong></summary>
-  <br>
-  <p>
-    If my open-source work or research notes help you, a coffee keeps the GPUs warm ☕
-    <br><br>
-    <a href="https://www.buymeacoffee.com/bargadyahmed" target="_blank">
-      <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-  </p>
-</details>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" width="75%" />
