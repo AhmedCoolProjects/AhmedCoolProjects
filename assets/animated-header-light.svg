@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="auto">
+  <defs>
+    <!-- Gradient definitions -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0066ff">
+        <animate attributeName="stop-color" values="#0066ff;#e91e63;#7c3aed;#2563eb;#06b6d4;#0066ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="25%" stop-color="#e91e63">
+        <animate attributeName="stop-color" values="#e91e63;#7c3aed;#2563eb;#06b6d4;#0066ff;#e91e63" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#2563eb;#06b6d4;#0066ff;#e91e63;#7c3aed" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="75%" stop-color="#2563eb">
+        <animate attributeName="stop-color" values="#2563eb;#06b6d4;#0066ff;#e91e63;#7c3aed;#2563eb" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0066ff">
+        <animate attributeName="stop-color" values="#0066ff;#e91e63;#7c3aed;#2563eb;#06b6d4;#0066ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0066ff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="#ffffff" rx="15"/>
+
+  <!-- Subtle light grid -->
+  <g opacity="0.04" stroke="#0066ff" stroke-width="0.5">
+    <line x1="0" y1="25" x2="800" y2="25"><animate attributeName="opacity" values="0.06;0.03;0.06" dur="4s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="50" x2="800" y2="50"><animate attributeName="opacity" values="0.03;0.06;0.03" dur="4s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="75" x2="800" y2="75"><animate attributeName="opacity" values="0.06;0.03;0.06" dur="3s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="100" x2="800" y2="100"><animate attributeName="opacity" values="0.03;0.06;0.03" dur="5s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="125" x2="800" y2="125"><animate attributeName="opacity" values="0.06;0.03;0.06" dur="3.5s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="150" x2="800" y2="150"><animate attributeName="opacity" values="0.03;0.06;0.03" dur="4.5s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="175" x2="800" y2="175"><animate attributeName="opacity" values="0.06;0.03;0.06" dur="3.2s" repeatCount="indefinite"/></line>
+  </g>
+
+  <!-- Floating particles (light colors) -->
+  <circle cx="120" cy="40" r="2.5" fill="#0066ff" opacity="0.15">
+    <animate attributeName="cy" values="40;25;40" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.05;0.15" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="280" cy="160" r="2" fill="#e91e63" opacity="0.12">
+    <animate attributeName="cy" values="160;140;160" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.04;0.12" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="35" r="2.5" fill="#7c3aed" opacity="0.15">
+    <animate attributeName="cy" values="35;55;35" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="175" r="2" fill="#06b6d4" opacity="0.1">
+    <animate attributeName="cy" values="175;155;175" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="70" r="2.5" fill="#2563eb" opacity="0.12">
+    <animate attributeName="cy" values="70;50;70" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Twinkling stars -->
+  <text x="100" y="100" fill="#333" font-size="7" opacity="0.12">✦</text>
+  <text x="680" y="120" fill="#333" font-size="6" opacity="0.1">✦</text>
+  <text x="350" y="180" fill="#333" font-size="5" opacity="0.12">✦</text>
+
+  <!-- Main title -->
+  <text x="400" y="85" text-anchor="middle" font-family="'Segoe UI', 'Fira Code', monospace" font-size="42" font-weight="900" fill="url(#grad1)" filter="url(#glow)">
+    AHMED BARGADY
+    <animate attributeName="opacity" values="0.9;1;0.9" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Decorative line -->
+  <line x1="200" y1="105" x2="600" y2="105" stroke="url(#grad2)" stroke-width="2" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Subtitle -->
+  <text x="400" y="135" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#555" letter-spacing="6">
+    Data Science Engineer
+    <animate attributeName="letter-spacing" values="6;8;6" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitle 2 -->
+  <text x="400" y="160" text-anchor="middle" font-family="'Fira Code', monospace" font-size="13" fill="#2563eb" opacity="0.7" letter-spacing="4">
+    AI • Cloud • Open Source
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Terminal cursor -->
+  <text x="406" y="135" text-anchor="start" font-family="monospace" font-size="16" fill="#0066ff" opacity="0">
+    _
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Corner decorations -->
+  <rect x="15" y="15" width="20" height="20" fill="none" stroke="#ddd" stroke-width="1.5" rx="3" opacity="0.5"/>
+  <rect x="765" y="165" width="20" height="20" fill="none" stroke="#ddd" stroke-width="1.5" rx="3" opacity="0.5"/>
+
+  <!-- Corner emojis -->
+  <text x="30" y="30" font-size="14" opacity="0.5">🚀</text>
+  <text x="756" y="183" font-size="14" opacity="0.5">💡</text>
+</svg>
