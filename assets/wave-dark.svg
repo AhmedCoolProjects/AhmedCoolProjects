@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+  <text x="15" y="24" text-anchor="middle" font-size="24">
+    👋
+    <animateTransform attributeName="transform" type="rotate" values="-10 15 15;10 15 15;-10 15 15" dur="1.5s" repeatCount="indefinite"/>
+  </text>
+</svg>
