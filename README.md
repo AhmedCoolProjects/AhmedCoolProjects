@@ -4,15 +4,13 @@
 
 <div align="center">
 
+<!-- Animated themed banner — APT detection attack graph + glitch title -->
 <a href="https://www.bargady.online">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Ahmed%20Bargady&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=PhD%20Researcher%20%E2%80%A2%20AI%20for%20APT%20Detection%20%E2%80%A2%20Data%20%26%20Full%E2%80%91Stack&descSize=18&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedCoolProjects/AhmedCoolProjects/main/assets/animated-header-dark.svg">
+    <img alt="Ahmed Bargady — PhD · AI for APT Detection" src="https://raw.githubusercontent.com/AhmedCoolProjects/AhmedCoolProjects/main/assets/animated-header-light.svg" width="100%">
+  </picture>
 </a>
-
-<!-- Animated SVG header (kept as overlay for users on older clients) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedCoolProjects/AhmedCoolProjects/main/assets/animated-header-dark.svg">
-  <img alt="Animated header" src="https://raw.githubusercontent.com/AhmedCoolProjects/AhmedCoolProjects/main/assets/animated-header-light.svg" width="100%">
-</picture>
 
 <br>
 
@@ -55,40 +53,80 @@
 <br>
 
 <!-- ============================================================ -->
-<!--                        ABOUT ME                              -->
+<!--          /whoami  —  THREAT-ACTOR DOSSIER (self)             -->
 <!-- ============================================================ -->
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/cool-github-profiles/main/icons/devicons/heart.svg" width="30" align="left" />
-<h2>&nbsp;About&nbsp;Me</h2>
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedCoolProjects/AhmedCoolProjects/main/assets/wave-dark.svg">
+    <img src="https://raw.githubusercontent.com/AhmedCoolProjects/AhmedCoolProjects/main/assets/wave-light.svg" alt="wave" width="28" height="28" />
+  </picture>
+  &nbsp;<code>$ ./whoami --verbose</code>
+</h2>
 
-```yaml
-identity:
-  name:        Ahmed BARGADY
-  location:    Morocco 🇲🇦
-  pronouns:    he/him
+<table>
+<tr>
+<td width="68%" valign="top">
 
-now:
-  role:        PhD Researcher
-  topic:       AI for Advanced Persistent Threat (APT) Detection
-  stack:       [PyTorch, Transformers, Graph Neural Nets, MITRE ATT&CK, Sigma, ELK]
-
-background:
-  - Data Science Engineer  (LLMs, MLOps, anomaly detection)
-  - Full-Stack Developer    (React/Next.js, Node, FastAPI, AWS)
-
-education:
-  - Engineering Degree in Data Science & AI
-  - Bachelor in Mathematics & Computer Science
-
-interests:
-  [ "Threat Intelligence", "Adversarial ML", "Graph Learning",
-    "LLM Agents",          "Cloud-Native",   "Open Source"     ]
-
-2026_goals:
-  - Publish first PhD paper on APT detection
-  - Open-source a reproducible APT-detection benchmark
-  - Ship more cybersecurity-tooling on Hugging Face
+```bash
+┌──[ INTEL-REPORT // CLASSIFIED: OPEN-SOURCE ]──────────────────┐
+│  CODENAME .......... APT-AHMED                                │
+│  REAL_NAME ......... Ahmed BARGADY                            │
+│  ORIGIN ............ Morocco  🇲🇦                              │
+│  FIRST_OBSERVED .... 2019 (commit hash: a17d3f...)            │
+│  STATUS ............ ACTIVE  ▮▮▮▮▮▮▮▮▮▮  100%                 │
+│  SECTOR ............ Academia · Cybersecurity · AI Research   │
+│  MOTIVATION ........ curiosity  ·  open-source  ·  ☕         │
+│  THREAT_LEVEL ...... HIGH-CURIOSITY  ⚠                        │
+└────────────────────────────────────────────────────────────────┘
 ```
+
+**` MISSION  `** &nbsp; Hunting **Advanced Persistent Threats** with graph neural nets, LLM agents, and a lot of late-night `tail -f`.
+
+**` ALIASES  `** &nbsp; `@AhmedBargady` · `@bargadyahmed` · `ahmedBargady` 🤗 · `bargady.online`
+
+**` PRIORS   `** &nbsp; Data Science Engineer → Full-Stack Developer → ⤳ now PhD Researcher
+
+</td>
+<td width="32%" valign="top">
+
+<div align="center">
+
+**` ◢ TARGETS / OBJECTIVES ◣ `**
+
+</div>
+
+```diff
++ Detect stealthy multi-stage APTs
++ Reason over MITRE ATT&CK with LLMs
++ Open-source an APT benchmark
++ Publish first PhD paper (2026)
+! Sleep more
+- Boring dashboards
+```
+
+<div align="center">
+
+**` ◢ TTPs ◣ `**
+
+`Initial-Access:` Python · PyTorch
+`Execution:`     FastAPI · Next.js
+`Persistence:`   Docker · K8s · AWS
+`Discovery:`     Graph DBs · ELK
+`Exfiltration:`  Open-Source 🌍
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- KILL CHAIN STRIP -->
+<div align="center">
+
+`RECON` → `WEAPONIZE` → `DELIVER` → `EXPLOIT` → `INSTALL` → `C2` → `ACTIONS` &nbsp;&nbsp; **vs.** &nbsp;&nbsp; 🛡️ &nbsp;`AI · Graphs · LLMs`
+
+</div>
 
 <br>
 
