@@ -76,9 +76,9 @@
 │  FIRST_OBSERVED .... 2019 (commit hash: a17d3f...)            │
 │  STATUS ............ ACTIVE  ▮▮▮▮▮▮▮▮▮▮  100%                 │
 │  SECTOR ............ Academia · Cybersecurity · AI Research   │
-│  MOTIVATION ........ curiosity  ·  open-source  ·  ☕         │
+│  MOTIVATION ........ curiosity  ·  open-source  ·  ☕          │
 │  THREAT_LEVEL ...... HIGH-CURIOSITY  ⚠                        │
-└────────────────────────────────────────────────────────────────┘
+└───────────────────────────────────────────────────────────────┘
 ```
 
 **` MISSION  `** &nbsp; Hunting **Advanced Persistent Threats** with graph neural nets, LLM agents, and a lot of late-night `tail -f`.
@@ -201,7 +201,7 @@
 <!--                  CONTRIBUTION SNAKE                          -->
 <!-- ============================================================ -->
 
-<h2 align="center">🐍&nbsp;&nbsp;Contribution Snake</h2>
+<!-- <h2 align="center">🐍&nbsp;&nbsp;Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -211,13 +211,13 @@
   </picture>
 </p>
 
-<br>
+<br> -->
 
 <!-- ============================================================ -->
 <!--                       GITHUB STATS                           -->
 <!-- ============================================================ -->
 
-<h2 align="center">📊&nbsp;&nbsp;GitHub Analytics</h2>
+<!-- <h2 align="center">📊&nbsp;&nbsp;GitHub Analytics</h2>
 
 <div align="center">
   <table>
@@ -246,7 +246,7 @@
   </table>
 </div>
 
-<br>
+<br> -->
 
 <!-- ============================================================ -->
 <!--                     ACTIVITY GRAPH                           -->
@@ -267,7 +267,7 @@
 <!--                        TROPHIES                              -->
 <!-- ============================================================ -->
 
-<div align="center">
+<!-- <div align="center">
   <h2>🏆&nbsp;&nbsp;GitHub Trophies</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AhmedCoolProjects&theme=radical&no-frame=true&no-bg=true&row=2&column=4">
@@ -275,13 +275,13 @@
   </picture>
 </div>
 
-<br>
+<br> -->
 
 <!-- ============================================================ -->
 <!--                       CONNECT                                -->
 <!-- ============================================================ -->
 
-<div align="center">
+<!-- <div align="center">
 
 <h2>🤝&nbsp;&nbsp;Let's Connect</h2>
 
@@ -295,14 +295,14 @@
 <a href="https://huggingface.co/ahmedBargady" target="_blank"><img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>&nbsp;
 <a href="mailto:ahmed.bargady@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br><br>
+<br><br> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" width="75%" />
 </picture>
 
-<br><br>
+<br><br> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&reversal=true&animation=fadeIn" width="100%" alt="Footer Wave" />
 
